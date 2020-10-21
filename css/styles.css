@@ -1,0 +1,29 @@
+h1{
+    font-size: 30px;
+    color: #E91E63;
+}
+h2{
+    font-size: 20px;
+    color: #b99999;
+    text-align: right;
+}
+
+.grande{
+    font-size: 100px;
+}
+
+.maiuscula{
+    text-transform: uppercase;
+}
+
+.grande.maiuscula{
+    text-shadow: 6px 6px 8px #333333;
+}
+
+span{
+    color: blue;
+}
+
+.grande span{
+    color: chartreuse;
+}
